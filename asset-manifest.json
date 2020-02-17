@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/unclemark/static/css/main.2624c0b8.chunk.css",
+    "main.js": "/unclemark/static/js/main.bd1135de.chunk.js",
+    "main.js.map": "/unclemark/static/js/main.bd1135de.chunk.js.map",
+    "runtime-main.js": "/unclemark/static/js/runtime-main.ad00f579.js",
+    "runtime-main.js.map": "/unclemark/static/js/runtime-main.ad00f579.js.map",
+    "static/js/2.1fffb467.chunk.js": "/unclemark/static/js/2.1fffb467.chunk.js",
+    "static/js/2.1fffb467.chunk.js.map": "/unclemark/static/js/2.1fffb467.chunk.js.map",
+    "index.html": "/unclemark/index.html",
+    "precache-manifest.a6451102b74b21afad5f9ab28bd68aba.js": "/unclemark/precache-manifest.a6451102b74b21afad5f9ab28bd68aba.js",
+    "service-worker.js": "/unclemark/service-worker.js",
+    "static/css/main.2624c0b8.chunk.css.map": "/unclemark/static/css/main.2624c0b8.chunk.css.map",
+    "static/js/2.1fffb467.chunk.js.LICENSE.txt": "/unclemark/static/js/2.1fffb467.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/unclemark/static/media/unclemark.81b7e85b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad00f579.js",
+    "static/js/2.1fffb467.chunk.js",
+    "static/css/main.2624c0b8.chunk.css",
+    "static/js/main.bd1135de.chunk.js"
+  ]
+}
