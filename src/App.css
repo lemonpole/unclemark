@@ -1,0 +1,63 @@
+#root {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+
+img {
+  background-image: url(./unclemark.jpg);
+  background-position: top;
+  background-size: cover;
+  width: 175px;
+  height: 175px;
+  border: 1px solid white;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+
+h1 {
+  font-size: 3em;
+  color: #132950;
+  text-shadow: 1px 1px rgba(255,255,255,0.12);
+  text-align: center;
+  min-height: 165px;
+  height: 50vh;
+}
+
+
+.button {
+  position: relative;
+  display: block;
+  background-color: #3369ff;
+  box-shadow: inset 0 -0.6em 0 -0.35em rgba(0,0,0,0.17);
+  box-sizing: border-box;
+  border: 0;
+  border-radius: 10px;
+  margin-top: 20px;
+  padding: 20px 50px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  color: #FFFFFF;
+}
+
+
+.button:focus {
+  outline-width: 0;
+}
+
+
+.button:active {
+  top: 0.1em;
+}
+
+
+@media only screen and (max-width: 600px) {
+  h1 { font-size: 2em; }
+}
